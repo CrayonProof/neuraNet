@@ -4,8 +4,9 @@
 class network
 {
     public :
-    network(layerSet)
+    network(string netFilename);
+    
     private:
     layer[] layers;
     
-}
+};

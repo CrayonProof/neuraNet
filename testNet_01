@@ -1,0 +1,3 @@
+layers: 784, 36, 16, 10
+learning_rate: .5
+biases: false

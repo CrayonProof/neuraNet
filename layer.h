@@ -8,4 +8,4 @@ class layer
     void setNode(int index, double value);
     private:
     double nodes [];
-}
+};
